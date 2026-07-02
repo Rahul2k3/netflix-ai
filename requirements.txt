@@ -1,0 +1,6 @@
+langchain-core
+langchain-mistralai
+pydantic>=2.0
+python-dotenv
+streamlit
+pytest
